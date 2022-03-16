@@ -4,13 +4,6 @@
 
 **My professional goal is to work as a Frontend Developer. My aim to work in the IT sector , I need constantly development and obtaining an experience, that will stay with me for life. I am currently actively continuing to explore new technologies based on HTML, CSS/SASS, JavaScript. And I want to evolve constantly in frontend technologies, new frameworks and other IT technologies. I realised that have some lacks on practical knowledge and experience on the projects. That is why I am looking for a crew, for whom I will be a useful team member and can develops with their.**
 
-## My testing projects
-
-1. Piggie_Game
-2. Web_Bankist
-3. Bankist_App_Starter
-4. Map_ty
-
 ## Employment history
 
 ### Beginner - Magnetic Point
@@ -44,6 +37,13 @@ January 2021 - April 2021
 ### CSS - The Complete Guide, Udemy: CSS, SASS
 
 2021
+
+## My testing projects
+
+1. Piggie_Game
+2. Web_Bankist
+3. Bankist_App_Starter
+4. Map_ty
 
 ![GitHub Logo](github.jpg)
 Format: ![Alt Text](url)
