@@ -40,10 +40,10 @@ January 2021 - April 2021
 
 ## My testing projects
 
-1. Piggie_Game
-2. Web_Bankist
-3. Bankist_App_Starter
-4. Map_ty
+1. Portfolio
+2. Piggie_Game
+3. Memory_game
+4. Web_Bankist
 
 ![GitHub Logo](github.jpg)
 Format: ![Alt Text](url)
