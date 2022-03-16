@@ -45,6 +45,14 @@ January 2021 - April 2021
 3. Memory_game
 4. Web_Bankist
 
+## My code
+
+**function deepCount(a){
+return a.reduce((acc, val) => {
+return acc + (Array.isArray(val) ? deepCount(val) : 0);
+}, a.length);
+}**
+
 ![GitHub Logo](github.jpg)
 Format: ![Alt Text](url)
 
